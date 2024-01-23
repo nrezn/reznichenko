@@ -9,7 +9,7 @@
     ```python
     Nazar start programming at 2024-01-21 20:24:02.649625. Lviv is the best city!
     ```
-![alt text]( "Результат")
+![alt text](https://github.com/nrezn/reznichenko/blob/main/1%20laba/Pictures/Screenshot_1.png "Результат")
 
 
 ### Висновок: 
