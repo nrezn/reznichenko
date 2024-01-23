@@ -14,7 +14,7 @@ for line in response.iter_lines():
     print(line)
 ```
 
-![alt-text]( "1")
+![alt-text](https://github.com/nrezn/reznichenko/blob/main/4%20laba/Pictures/Screenshot_2_project.png "1")
 ```python
 from flask import Flask, render_template
 app = Flask(__name__)
@@ -24,11 +24,11 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-![alt-text]( "2")
+![alt-text](https://github.com/nrezn/reznichenko/blob/main/4%20laba/Pictures/Screenshot_1.png "2")
 
 1. Навчився працювати з віртуальними середовищами:
-![alt-text]( "3")
-![alt-text]( "4")
+![alt-text](https://github.com/nrezn/reznichenko/blob/main/4%20laba/Pictures/Screenshot_3_libs.png "3")
+![alt-text](https://github.com/nrezn/reznichenko/blob/main/4%20laba/Pictures/Screenshot_4_env.png "4")
 
 ### Висновок: 
 В ході викоанння лабораторної роботи я навчився працювати з віртуальними середовищами та працювати з фреймворками та бібліотеками
