@@ -92,8 +92,7 @@ print(f"Загальна кількість користувачів = {MyName.t
 =======
 ```
 1. Результат виконання завдання:
-![alt-text]( "1")
->>>>>>> fe1ce2d448ab3395e9e61e6ee0904661af10d7ed
+![alt-text](https://github.com/nrezn/reznichenko/blob/main/3%20laba/Picture/Screenshot_2.png "1")
 
 ### Висновок: 
 У даній лабораторній роботі я навчився взаємодії з класами в мові програмування Python та нотатками у файлах з розширенням .ipynb
